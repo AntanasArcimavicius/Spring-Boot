@@ -6,6 +6,6 @@
     <title>Demo Spring</title>
 </head>
 <body>
-    <h1>Welcome to Tinkladariai Demo Spring App</h1>
+    <p>Hello from ${name}!</p>
 </body>
 </html>
