@@ -26,3 +26,4 @@ Makefile shorthands for common commands:
     make                                    # Build app
     make up                                 # Run app
     make down                               # Stop app but keep containers
+
